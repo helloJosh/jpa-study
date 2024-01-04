@@ -17,7 +17,7 @@
 ## 3. Controller
 ### helloController
 |HTTP요청메서드|URL|VIEW|MODEL|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |GET|hello|hello.html|hello!!!|
 |GET|hello-mvc?name=Param|hello-template.html|name|
 |GET|hello-string?name=Param|hello Param|name|
